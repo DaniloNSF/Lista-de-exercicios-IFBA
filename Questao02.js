@@ -1,7 +1,7 @@
 
 let area, base, altura, perimetro;
 
-     base = 4;
+    base = 4;
     altura =  4;
     area =  base * altura 
     perimetro =  4 + 4 + 4 + 4

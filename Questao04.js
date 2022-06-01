@@ -1,14 +1,13 @@
 
-var
+let a, b, c, perimetro;
 
-    a, b, c, perimetro:inteiro
+    a =  8
+    b =  8
+    c =  8
+    perimetro =  a+b+c 
+    console.log ("O perimetro do triangulo é = " , perimetro)
 
-inicio
 
-    a <- 8
-    b <- 8
-    c <- 8
-    perimetro <- a+b+c 
-    escreva ("O perimetro do triangulo é = " , perimetro)
 
-fimalgoritmo
+
+   
